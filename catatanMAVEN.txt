@@ -1,0 +1,7 @@
+Catatan maven.
+
+Buat JAVA_HOME & MAVEN_HOME di System variabel (mycomputer klik kanan properties, tab Advanced > Environment variabels)
+
+JAVA_HOME
+MAVEN_HOME
+
